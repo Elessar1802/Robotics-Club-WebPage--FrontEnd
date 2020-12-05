@@ -189,6 +189,10 @@
     justify-content: center;
     margin-top: 20px;
   }
+
+  header {
+    height: 450px;
+  }
 }
 
 /* Small phones: from 0 to 480px */
