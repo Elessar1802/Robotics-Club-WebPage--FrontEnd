@@ -193,6 +193,9 @@
   header {
     height: 450px;
   }
+  #contact-info .links {
+    min-width: 200px;
+  }
 }
 
 /* Small phones: from 0 to 480px */
