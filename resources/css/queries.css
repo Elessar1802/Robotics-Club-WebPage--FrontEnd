@@ -198,10 +198,10 @@
     margin-left: 20px;
   }
   h1 {
-    word-spacing: 3px;
+    word-spacing: 2px;
   }
 }
-}
+
 
 /* Small phones: from 0 to 480px */
 @media only screen and (max-width: 480px) {
