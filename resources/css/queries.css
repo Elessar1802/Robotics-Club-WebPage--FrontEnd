@@ -195,6 +195,7 @@
   }
   #contact-info .links {
     min-width: 300px;
+    margin-left: 20px;
   }
   h1 {
     word-spacing: 3px;
